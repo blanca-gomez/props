@@ -12,7 +12,7 @@ Recuerda siempre que debes hacer un `npm i` del repositorio para tener todas las
 2. Entender la Estructura del Proyecto
 `src/App.js`: Este es el componente principal de la aplicación donde se maneja el estado de las tareas y se definen las funciones para agregar, eliminar y marcar tareas como completadas.
 `src/Task.js`: Este componente muestra una tarea individual y maneja los eventos de clic en la tarea.
-`src/AddTaskForm.js`: Este componente proporciona un formulario para agregar nuevas tareas a la lista.
+`src/AddTaskForm.js`: 
 
 ### Cada componente tiene:
 
